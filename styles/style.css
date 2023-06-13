@@ -39,10 +39,21 @@
     padding-top: 50px;
     padding-left: 150px;
 }
+.over2 {
+    
+    padding-left: 120px;
+}
 
 .text {
     padding-top: 60px;
-    padding-left: 250px;
+    padding-left: 190px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.para {
+    padding-top: 60px;
+    padding-left: 50px;
+    font-family: 'Rajdhani', sans-serif;
 }
 .overlay-container {
     display: flex;
