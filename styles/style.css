@@ -1,0 +1,23 @@
+.nav-item {
+    color:white !important;
+    font-family: 'Rajdhani', sans-serif;
+  
+}
+
+.nav{
+    background-color:rgb(112, 112, 223);
+}
+  
+
+.navbar {
+    font-family: 'Dancing Script', cursive;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
