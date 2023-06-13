@@ -38,10 +38,11 @@
 .over1 {
     padding-top: 50px;
     padding-left: 150px;
+    border-bottom: 10px solid rgb(112, 112, 223);
 }
 .over2 {
-    
-    padding-left: 120px;
+    border-bottom: 10px solid rgb(112, 112, 223);
+    padding-right: 100px;
 }
 
 .text {
