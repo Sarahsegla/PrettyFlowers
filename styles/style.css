@@ -14,10 +14,23 @@
 }
 
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
+/* .carousel-inner {
+    z-index: 1;
+} */
+
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 12px 24px;
+    border: 1px solid rgb(112, 112, 223);
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
 }
