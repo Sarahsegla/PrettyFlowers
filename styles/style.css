@@ -14,9 +14,9 @@
 }
 
 
-/* .carousel-inner {
-    z-index: 1;
-} */
+.overlay {
+    background-color: white;
+}
 
 .btn {
     position: absolute;
@@ -33,4 +33,26 @@
     border-radius: 5px;
     text-align: center;
     font-family: 'Rajdhani', sans-serif;
+}
+
+.over1 {
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+.text {
+    padding-top: 60px;
+    padding-left: 250px;
+}
+.overlay-container {
+    display: flex;
+}
+
+.overlay-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
 }
