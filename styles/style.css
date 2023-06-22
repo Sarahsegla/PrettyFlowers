@@ -79,3 +79,63 @@
     width:1349px;
     height:200px;
 }
+
+.landscape-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+.landscape-container .btn-landscape {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    font-size: 50px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    display: inline;
+    margin: 0 auto;
+}
+
+.landscape-container .btn-landscape1 {
+    position: absolute;
+    top: 50%;
+    left: 170%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    font-size: 50px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    display: inline;
+    margin: 0 auto;
+}
+
+.landscape-container .btn-landscape2 {
+    position: absolute;
+    top: 50%;
+    left: 280%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    font-size: 50px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    display: inline;
+    margin: 0 auto;
+}
