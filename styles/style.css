@@ -39,10 +39,14 @@
     padding-top: 50px;
     padding-left: 150px;
     border-bottom: 10px solid rgb(112, 112, 223);
+    width:590px;
+    height:500px;
 }
 .over2 {
     border-bottom: 10px solid rgb(112, 112, 223);
     padding-right: 100px;
+    width:600px;
+    height:500px;
 }
 
 .text {
@@ -67,4 +71,11 @@
     text-align: center;
     line-height: 75px;
     font-size: 30px;
+}
+
+.landscape {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:1349px;
+    height:200px;
 }
