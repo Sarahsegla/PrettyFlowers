@@ -23,6 +23,7 @@
     font-family: 'Dancing Script', cursive;
     color: black;
     
+    
 }
 
 .navbar-brand {
@@ -87,7 +88,19 @@
         font-family: 'Rajdhani', sans-serif;
     }
     .pretty {
-        width: 312px
+        width: 312px;
+        
+
+    }
+
+    .mobile-icon {
+        display: block;
+    }
+    .call {
+        display: none;
+    }
+    .email {
+        display: none;
     }
     .nav {
         width: 312px
@@ -153,7 +166,18 @@
 .pretty {
     font-family: 'Dancing Script', cursive;
 }
-
+.call {
+    padding-left: 700px;
+}
+.email {
+    padding-left: 30px;
+}
+.socials {
+    padding-left: 30px;
+}
+.mobile-icon {
+    display: none;
+}
 
 .overlay {
     background-color: white;
