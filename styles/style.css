@@ -108,6 +108,23 @@
         text-align: center;
         font-family: 'Rajdhani', sans-serif;
     }
+    /* .landscape-container {
+        display: flex;
+    } */
+    .landscape-container > div {
+        font-size: 30px;
+        position: absolute;
+       padding-left: 80px;
+       padding-bottom: 20px;
+       margin-bottom: 100px;
+       transform: translate(-2%, -100%);
+       color: white;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+       
+    }
    
 
 }
