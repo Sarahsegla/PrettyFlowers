@@ -22,6 +22,11 @@
 .pretty {
     font-family: 'Dancing Script', cursive;
     color: black;
+    
+}
+
+.navbar-brand {
+    color: inherit;
 }
 
 
@@ -35,12 +40,12 @@
     font-family: 'Rajdhani', sans-serif;
 }
 
-.over2 {
-    border-bottom: 20px solid rgb(112, 112, 223);
+/* .over2 {
+    border-bottom: 10px solid rgb(112, 112, 223);
     padding-right: 100px;
     width:600px;
     height:500px;
-}
+} */
 /* .text {
     padding-top: 60px;
     padding-left: 190px;
@@ -50,7 +55,7 @@
 
 @media (max-width: 432px) {
     .carousel {
-        width: 300px; 
+        width: 312px; 
     }
 
     .over2 {
@@ -63,7 +68,7 @@
     height:100px;
     }
     .landscape {
-        width:300px;
+        width:312px;
     height:100px;
     }
     .para {
@@ -80,6 +85,12 @@
       .text {
         
         font-family: 'Rajdhani', sans-serif;
+    }
+    .pretty {
+        width: 312px
+    }
+    .nav {
+        width: 312px
     }
    
 
