@@ -9,8 +9,8 @@
 }
 
 .navbar-nav > li{
-    padding-left:190px;
-    padding-right:190px;
+    /* padding-left:190px;
+    padding-right:190px; */
     font-size: 15px;
   }
 
@@ -19,8 +19,9 @@
 }
   
 
-.navbar {
+.pretty {
     font-family: 'Dancing Script', cursive;
+    color: black;
 }
 
 
@@ -72,15 +73,15 @@
         font-size: 8px;
         
     }
-    .navbar-nav > li{
+    /* .navbar-nav > li{
         
         font-size: 15px;
-      }
+      } */
       .text {
         
         font-family: 'Rajdhani', sans-serif;
     }
-    
+   
 
 }
 
@@ -105,7 +106,7 @@
 }
   
 
-.navbar {
+.pretty {
     font-family: 'Dancing Script', cursive;
 }
 
