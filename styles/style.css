@@ -92,6 +92,22 @@
     .nav {
         width: 312px
     }
+    .btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        color: white;
+        background-color: transparent;
+        font-size: 20px;
+        padding: 12px 24px;
+        border: 1px solid rgb(112, 112, 223);
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+        font-family: 'Rajdhani', sans-serif;
+    }
    
 
 }
